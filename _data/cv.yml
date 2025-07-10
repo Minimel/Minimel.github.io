@@ -2,17 +2,15 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Mélanie Gaillcohet
     - name: Languages
-      value: English, German
+      value: French, English, Tgalog, Spanish, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+      institution: ÉTS Montréal, Canada
       year: 1905
       description:
         - Description 1.
