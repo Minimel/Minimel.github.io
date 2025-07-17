@@ -2,7 +2,6 @@
   "basics": {
     "name": "Mélanie Gaillochet",
     "label": "Computer vision researcher",
-    "image": "",
     "GitHub": "https://Minimel.github.io",
     "summary": "",
     "profiles": [
@@ -22,7 +21,8 @@
       "studyType": "PhD",
       "startDate": "2021",
       "endDate": "",
-      "score": ""
+      "highlights": "",
+      "courses": ""
     },
     {
       "institution": "ETH Zürich",
@@ -32,7 +32,8 @@
       "studyType": "Master of Science",
       "startDate": "2017",
       "endDate": "2020",
-      "score": ""
+      "highlights": "",
+      "courses": ""
     },
     {
       "institution": "McGill University",
@@ -42,16 +43,16 @@
       "studyType": "Bachelor of Science",
       "startDate": "2013",
       "endDate": "2017",
-      "score": ""
+      "courses": ""
     }
   ],
   "work": [    
     {
       "name": "BrainInnov",
-      "position": "Research Intern",
+      "position": "R&D Intern",
       "url": "",
-      "startDate": "2025",
-      "endDate": "2025",
+      "startDate": "2025-01",
+      "endDate": "2025-06",
       "summary": "",
       "highlights": ["Implemented segmentation and localization algorithms for lung cancer detection."]
     },
@@ -59,8 +60,8 @@
       "name": "ÉTS Montréal",
       "position": "Research Intern",
       "url": "",
-      "startDate": "2020",
-      "endDate": "2021",
+      "startDate": "2020-10",
+      "endDate": "2021-04",
       "summary": "Supervised by Prof. Hervé Lombaert",
       "highlights": ["Developped an active learning method for segmentation based on data uncertainty to minimize manual annotation of medical images."]
     },
@@ -68,8 +69,8 @@
       "name": "Konigle Pte. Ltd",
       "position": "R&D Scientist",
       "url": "",
-      "startDate": "2019",
-      "endDate": "2020",
+      "startDate": "2019-10",
+      "endDate": "2020-03",
       "summary": "",
       "highlights": ["Leveraged machine translation algorithms to augment and standardize transaction data of small businesses.", "Implemented a product recommendation system based on transaction history."]
     },
@@ -77,8 +78,8 @@
       "name": "Konigle Pte. Ltd",
       "position": "R&D Intern",
       "url": "",
-      "startDate": "2019",
-      "endDate": "2019",
+      "startDate": "2019-04",
+      "endDate": "2019-09",
       "summary": "",
       "highlights": ["Developed an automated framework for business analytics and sales forecasting to improve the decision-making process of small businesses."]
     }
@@ -114,8 +115,7 @@
       "title": "First-year PhD Scholarship",
       "date": "2022",
       "awarder": "Québec Bio-Imaging Network (RBIQ)",
-      "url": "",
-      "summary": ""
+      "url": ""
     }
   ],
   "certificates": [
@@ -163,7 +163,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "Fluent",
+      "fluency": "Intermediate level",
       "icon": ""
     },
     {
@@ -189,6 +189,11 @@
     {
       "name": "Professor Hervé Lombaert",
       "icon": "fa-solid fa-laptop",
+      "reference": "PhD Supervisor"
+    },
+    {
+      "name": "Professor Christian Desrosiers",
+      "icon": "fa-solid ffa-laptop",
       "reference": "PhD Supervisor"
     },
     {
