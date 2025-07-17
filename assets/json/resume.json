@@ -3,9 +3,7 @@
     "name": "Mélanie Gaillochet",
     "label": "Computer vision researcher",
     "image": "",
-    "email": "melanie.gaillochet.1@ens.etsmtl.ca",
-    "phone": "(438) 527-2157",
-    "url": "https://Minimel.github.io",
+    "GitHub": "https://Minimel.github.io",
     "summary": "",
     "profiles": [
       {
@@ -15,44 +13,6 @@
       }
     ]
   },
-  "work": [    
-    {
-      "name": "BrainInnov",
-      "position": "Research Intern",
-      "url": "",
-      "startDate": "2025-01",
-      "endDate": "2025-06",
-      "summary": "",
-      "highlights": ["Implemented segmentation and localization algorithms for lung cancer detection."]
-    },
-    {
-      "name": "ÉTS Montréal",
-      "position": "Research Intern",
-      "url": "",
-      "startDate": "2020-10",
-      "endDate": "2021-04",
-      "summary": "Supervised by Prof. Hervé Lombaert",
-      "highlights": ["Developped an active learning method for segmentation based on data uncertainty to minimize manual annotation of medical images."]
-    },
-    {
-      "name": "Konigle Pte. Ltd",
-      "position": "R&D Scientist",
-      "url": "",
-      "startDate": "2019-10",
-      "endDate": "2020-03",
-      "summary": "",
-      "highlights": ["Leveraged machine translation algorithms to augment and standardize transaction data of small businesses.", "Implemented a product recommendation system based on transaction history."]
-    },
-    {
-      "name": "Konigle Pte. Ltd",
-      "position": "R&D Intern",
-      "url": "",
-      "startDate": "2019-04",
-      "endDate": "2019-09",
-      "summary": "",
-      "highlights": ["Developed an automated framework for business analytics and sales forecasting to improve the decision-making process of small businesses."]
-    }
-  ],
   "education": [
     {
       "institution": "ÉTS Montréal & MILA-Quebec AI Institute & Polytechnique Montréal",
@@ -60,7 +20,7 @@
       "url": "https://www.etsmtl.ca/",
       "area": "Software Engineering and IT",
       "studyType": "PhD",
-      "startDate": "2021-05",
+      "startDate": "2021",
       "endDate": "",
       "score": ""
     },
@@ -70,8 +30,8 @@
       "url": "https://www.ethz.ch/en.html",
       "area": "Data Science",
       "studyType": "Master of Science",
-      "startDate": "2017-09",
-      "endDate": "2020-12",
+      "startDate": "2017",
+      "endDate": "2020",
       "score": ""
     },
     {
@@ -80,9 +40,47 @@
       "url": "mcgill.ca",
       "area": "Physics",
       "studyType": "Bachelor of Science",
-      "startDate": "2013-09",
-      "endDate": "2017-02",
+      "startDate": "2013",
+      "endDate": "2017",
       "score": ""
+    }
+  ],
+  "work": [    
+    {
+      "name": "BrainInnov",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2025",
+      "endDate": "2025",
+      "summary": "",
+      "highlights": ["Implemented segmentation and localization algorithms for lung cancer detection."]
+    },
+    {
+      "name": "ÉTS Montréal",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Supervised by Prof. Hervé Lombaert",
+      "highlights": ["Developped an active learning method for segmentation based on data uncertainty to minimize manual annotation of medical images."]
+    },
+    {
+      "name": "Konigle Pte. Ltd",
+      "position": "R&D Scientist",
+      "url": "",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": ["Leveraged machine translation algorithms to augment and standardize transaction data of small businesses.", "Implemented a product recommendation system based on transaction history."]
+    },
+    {
+      "name": "Konigle Pte. Ltd",
+      "position": "R&D Intern",
+      "url": "",
+      "startDate": "2019",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": ["Developed an automated framework for business analytics and sales forecasting to improve the decision-making process of small businesses."]
     }
   ],
   "volunteer": [
@@ -100,8 +98,8 @@
   "awards": [
     {
       "title": "PhD Excellence Scholarship",
-      "date": "2023",
-      "awarder": "Québec Research Funds (FRQNT)",
+      "date": "2023-2025",
+      "awarder": "Fonds de recherche du Québec - Nature et technologies (FRQNT)",
       "url": "",
       "summary": "3-year excellence scholarship for foreign PhD students."
     },
